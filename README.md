@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MubbashirMahabari
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Software Development
+- 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
 
